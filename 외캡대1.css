@@ -1,0 +1,34 @@
+#hr1{
+    position: relative;
+    bottom: 270px;
+}
+
+#bgimg{
+    position: relative;
+    bottom: 300px;
+}
+
+#bg{
+    height: 300px;
+    width: 850px;
+    position: relative;
+    left: 660px;
+    top: -70px;
+}
+
+h2{
+    display: inline;
+}
+
+h1{
+    display: inline;
+}
+
+a{
+    text-decoration: blue;
+}
+
+img{
+    display: inline;
+}
+

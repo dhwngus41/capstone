@@ -1,0 +1,42 @@
+#title1{
+    vertical-align: center; 
+    font-size: 70px;
+    display: block;
+    text-align: center;
+
+}
+
+body{
+    margin: 0px;
+}
+
+#topmenu{
+    height: 84px;
+    width: 1536px;
+}
+
+#topmenu ul li{
+    list-style: none;
+    color: white;
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+    background-color: black;
+    line-height: 30px;
+}
+
+#topmenu .menuLink{
+    text-decoration: none;
+    color: white;
+    width: 295px;
+    font-weight: bold;
+    font-size: 30px;
+    display: block;
+    height: 60px;
+    line-height: 60px;
+}
+
+#topmenu .menuLink:hover {            
+    color: aqua ;                 
+    background-color: #4d4d4d;    
+}
